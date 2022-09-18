@@ -32,7 +32,6 @@ Steps
 
 
 
-The output file is Predicted data 
-
+The output file is Predicted 
 
 
