@@ -9,7 +9,7 @@ About data
 Dependent variable-tweet_intent
 InDependent variable-tweet_text
 
-We use NLP as X is in text format
+We use NLP  as data is in text format
 
 Steps 
 1 Read the data 
